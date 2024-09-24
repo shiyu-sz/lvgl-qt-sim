@@ -53,6 +53,7 @@
 #define CONSOLE_H
 
 #include <QPlainTextEdit>
+#include <QFile>
 
 typedef enum {
  C_GREEN,
