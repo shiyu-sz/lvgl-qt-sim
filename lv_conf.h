@@ -11,8 +11,8 @@
  *    - add the path as include path
  */
 
-#define LV_HOR_RES_MAX (480)
-#define LV_VER_RES_MAX (272)
+#define LV_HOR_RES_MAX (800)
+#define LV_VER_RES_MAX (480)
 
 /* clang-format off */
 #if 1 /*Set it to "1" to enable content*/

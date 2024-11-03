@@ -28,6 +28,45 @@
       </property>
      </widget>
     </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QPushButton" name="pb1">
+        <property name="text">
+         <string>音量+</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb2">
+        <property name="text">
+         <string>音量-</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb5">
+        <property name="text">
+         <string>换页</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb3">
+        <property name="text">
+         <string>亮度+</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb4">
+        <property name="text">
+         <string>亮度-</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
    </layout>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -36,7 +75,7 @@
      <x>0</x>
      <y>0</y>
      <width>250</width>
-     <height>24</height>
+     <height>17</height>
     </rect>
    </property>
   </widget>

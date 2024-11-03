@@ -66,7 +66,11 @@ SOURCES += \
     ./sim/main.cpp \
     ./sim/mainwindow.cpp \
     ./sim/termdlg.cpp \
+    app/access_alarms_16dp_FFFFFF.c \
     app/app.c \
+    app/favorite_border_16dp_FFFFFF.c \
+    app/insert_chart_outlined_16dp_FFFFFF.c \
+    app/search_64dp_EA3323.c \
     lvgl/src/core/lv_disp.c \
     lvgl/src/core/lv_event.c \
     lvgl/src/core/lv_group.c \
