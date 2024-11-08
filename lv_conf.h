@@ -11,8 +11,8 @@
  *    - add the path as include path
  */
 
-#define LV_HOR_RES_MAX (800)
-#define LV_VER_RES_MAX (480)
+#define LV_HOR_RES_MAX (900)
+#define LV_VER_RES_MAX (600)
 
 /* clang-format off */
 #if 1 /*Set it to "1" to enable content*/
@@ -336,9 +336,9 @@
 #define LV_FONT_MONTSERRAT_18 0
 #define LV_FONT_MONTSERRAT_20 0
 #define LV_FONT_MONTSERRAT_22 1
-#define LV_FONT_MONTSERRAT_24 0
+#define LV_FONT_MONTSERRAT_24 1
 #define LV_FONT_MONTSERRAT_26 0
-#define LV_FONT_MONTSERRAT_28 0
+#define LV_FONT_MONTSERRAT_28 1
 #define LV_FONT_MONTSERRAT_30 0
 #define LV_FONT_MONTSERRAT_32 1
 #define LV_FONT_MONTSERRAT_34 0
